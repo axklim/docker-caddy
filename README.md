@@ -1,5 +1,5 @@
 # docker-caddy
-another one image of [caddy web server](https://github.com/mholt/caddy)
+Another one image of [caddy web server](https://github.com/mholt/caddy)
 
 Local run, you see: 404 Not Found
 ```bash
